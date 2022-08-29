@@ -1,0 +1,11 @@
+.botão{
+    display: flex;
+    justify-content: center;
+    padding: 500px;
+}
+
+.style-text{
+    display: flex;
+    justify-content: center;
+
+}
